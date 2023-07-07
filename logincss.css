@@ -1,0 +1,14 @@
+.heading-section {
+ font-style:italic;
+ margin-top: 10%;
+ margin-bottom: 10%;
+}
+body {
+    background-color: rgb(247, 220, 220);
+}
+.col-md-7 {
+    background-color: beige;
+}
+.windows-xp {
+ background-image: url(ssets/images/windows_xp_bliss.jpg); 
+}
